@@ -9,4 +9,4 @@ name = "View on Github"
 url = "https://github.com/dwalkr/sawmill"
 weight = 10
 [params]
-logo = "/logo.svg"
+logo = "/uploads/2018/05/21/emi.png"
